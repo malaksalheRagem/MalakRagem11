@@ -1,0 +1,11 @@
+│     │           │           │           │           ├── style: TextStyle(
+            │     │           │           │           │           │     ├── fontSize: 25.0,
+            │     │           │           │           │           │     ├── color: Colors.white,
+            │     │           │           │           │           │     └── fontWeight: FontWeight.bold,
+            │     │           │           │           │           └── Text(
+            │     │           │           │           │                 └── ' (2013 - 2017)',
+            │     │           │           │           │                       ├── style: TextStyle(
+            │     │           │           │           │                       │     ├── fontSize: 25.0,
+            │     │           │           │           │                       │     └── color: Colors.white,
+            │     │           │           │           │                       └── SizedBox(height: 20),
+            │     │           │           ├── Text
